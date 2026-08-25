@@ -8,6 +8,6 @@ Area 67 es un juego de un solo jugador inspirado en el juego Vampire survivors. 
 
 La tecnología utilizada es Libgdx y nuestro objetivo para el juego es solamente para computadora.
 
-Para descargar el repositorio tenes que copiar la URL del repositorio,ir al cmd o girbash,ubicarte en la carpeta en la que quieras que se descargue,usar el git clone(un ejemplo seria -git clone https://github.com/usuario/nombre-del-repositorio.git).Con esto ya lo tendrias descargado la carpeta con el proyecto,ahora tenes que importar el archivo a la aplicacion que estes usando para correr el juego y ya tendrias el juego funcionando correctamente.
+Para descargar el repositorio tenes que copiar la URL del repositorio,ir al cmd o girbash,ubicarte en la carpeta en la que quieras que se descargue,usar el git clone(un ejemplo seria -git clone https://github.com/usuario/nombre-del-repositorio.git). Con esto ya lo tendrias descargado la carpeta con el proyecto,ahora tenes que importar el archivo a la aplicacion que estes usando para correr el juego y ya tendrias el juego funcionando correctamente.
 
 Estado actual del proyecto: Configuración inicial y estructura del proyecto.
